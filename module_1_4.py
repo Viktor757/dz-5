@@ -1,5 +1,5 @@
 my_string=input('В каком городе проживаете?')
-print(my_string.count(''))
+print(len(my_string))
 print(my_string.upper())
 print(my_string.lower())
 print(my_string.replace(' ',''))
